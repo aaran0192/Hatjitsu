@@ -7,7 +7,7 @@ module.exports = {
   },
   production: {
     hostname: "hhttp://aaran-points-ahoy.herokuapp.com",
-    port: 443,
+   // port: 443,
     packAssets: true
   }
 };
