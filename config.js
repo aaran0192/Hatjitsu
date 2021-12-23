@@ -6,8 +6,8 @@ module.exports = {
     packAssets: false
   },
   production: {
-    hostname: "hat.jit.su",
-    port: 80,
+    hostname: "hhttp://aaran-points-ahoy.herokuapp.com",
+    port: 443,
     packAssets: true
   }
 };
